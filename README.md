@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **pedro_klesse@hotmail.com**
 
-- 📄 Know about my experiences [Scrum Master and Head of Operations and Quality at CATI Jr](Scrum Master and Head of Operations and Quality at CATI Jr)
+- 📄 Know about my experiences [Scrum Master and Head of Operations and Quality at CATI Jr]
 
 - ⚡ Fun fact **Star Wars is my favorite saga**
 
