@@ -7,11 +7,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Pedro Malandrin Klesse</h1>
 <h3 align="center">Welcome to my Github, it's my pleasure!</h3>
 
-- 🔭 I’m currently working on **B Trees to make a Museum app**
+- 🔭 I’m currently working on **Java Bootcamp**
 
 - 👀 I’m interested in **Data Science and Digital Signal Processing**
 
-- 🌱 I’m currently learning **Data Science with Python and React Native**
+- 🌱 I’m currently learning **Data Science with Python and Java**
 
 - 📫 How to reach me **pedro_klesse@hotmail.com**
 
