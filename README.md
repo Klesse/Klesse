@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Pedro Malandrin Klesse</h1>
 <h3 align="center">Welcome to my Github, it's my pleasure!</h3>
 
-- 🔭 I’m currently working on **Java Bootcamp**
+- 🔭 I’m currently working on **Freecodecamp - Machine Learning and Neural Networks**
 
 - 👀 I’m interested in **Data Science and Digital Signal Processing**
 
