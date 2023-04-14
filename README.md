@@ -7,11 +7,11 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Pedro Malandrin Klesse</h1>
 <h3 align="center">Welcome to my Github, it's my pleasure!</h3>
 
-- 🔭 I’m currently working on **Freecodecamp - Machine Learning and Neural Networks**
+- 🔭 I’m currently working on **Recognizing Patterns in Binary Images with Cartesian GP and YOLO**
 
-- 👀 I’m interested in **Data Science and Digital Signal Processing**
+- 👀 I’m interested in **Deep Learning and Computer Vision**
 
-- 🌱 I’m currently learning **Data Science with Python and Java**
+- 🌱 I’m currently learning **Deep Learning with Python**
 
 - 📫 How to reach me **pedro_klesse@hotmail.com**
 
