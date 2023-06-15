@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Deep Learning with Python**
 
-- 📫 How to reach me **pedro_klesse@hotmail.com**
+- 📫 How to reach me **pedromklesse@gmail.com**
 
 - 📄 Know about my experiences [Scrum Master and Head of Operations and Quality at CATI Jr]
 
