@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Recognizing Patterns in Binary Images with Cartesian GP and YOLO**
 
-- 👀 I’m interested in **Deep Learning and Computer Vision**
+- 👀 I’m interested in **Data Science and Machine Learning**
 
-- 🌱 I’m currently learning **Deep Learning with Python**
+- 🌱 I’m currently learning **NLP On Datacamp**
 
 - 📫 How to reach me **pedromklesse@gmail.com**
 
