@@ -15,7 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **pedromklesse@gmail.com**
 
-- 📄 Know about my experiences [Scrum Master and Head of Operations and Quality at CATI Jr]
+- 📄 Know about my experiences:
+  - Scrum Master and Head of Operations and Quality at CATI Jr.
+  - Project about Speech Transcription in partnership with FAI-UFSCar.
+  - AI Researcher by FAPESP.
+  - Member of PANDA-UFSCar.
 
 - ⚡ Fun fact **Star Wars is my favorite saga**
 
